@@ -15,7 +15,7 @@
 
 ## Sobre
 
-**Beautysalon.** -> trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week (Edição #6) / Trilha Origin
+**Beautysalon.** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week (Edição #6) / Trilha Origin
 
 ### Templates Figma
 
