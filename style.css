@@ -353,6 +353,8 @@ nav.show div.icon-close {
 }
 
 /* =================== SERVICES ===================  */
+/* trabalhar com transform: scale */
+
 .cards.grid {
   gap: 1.5rem;
 }
